@@ -45,3 +45,7 @@ public class Ejemplo03 {
         
     }
 }
+/*
+El strin format sirve para agrupar la informcion de varias variables, y en el
+momento de presentar la informacion solo se utiliza una ola variable variable
+*/
